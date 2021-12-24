@@ -97,3 +97,45 @@ body{
     width: 270px;
     border-color: #ffc400ec;
 }
+
+
+
+
+.box input[type="text"],.box input[type="username-text"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 3px  solid #0367fd;
+    padding: 14px 10px;
+    width: 220px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25px;
+}
+.box input[type="text"]:focus,.box input[type="username-text"]:focus{
+    width: 270px;
+    border-color: #ffc400ec;
+    
+}
+
+.box input[type="text"],.box input[type="email-text"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 3px  solid #0367fd;
+    padding: 14px 10px;
+    width: 220px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25px;
+}
+.box input[type="text"]:focus,.box input[type="email-text"]:focus{
+    width: 270px;
+    border-color: #ffc400ec;
+}
