@@ -103,6 +103,7 @@ p{
 }
 .col-2 img{
     width: 100%;
+    border-radius: 50%;
 }
 .small-container{
     max-width: 1080px;
@@ -157,4 +158,21 @@ h4{
 
 .col-3:hover{
     transform: translateY(-5px);
+}
+/*brands***********************/
+.brands{
+    margin: 100px auto;
+}
+.col-4{
+    width: 160px;
+}
+/*logos are all gray*/
+.col-4 img{
+    width: 100%;
+    cursor: pointer;
+    filter: grayscale(100%);
+}
+/*logo becomes colorful*/
+.col-4 img:hover{
+    filter:grayscale(0);
 }
