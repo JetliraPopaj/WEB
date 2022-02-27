@@ -1,6 +1,0 @@
-1.Webfaqja të ketë minimum 3 pages si psh: Faqen kryesore(Home/Dashboard), About us, Products, News, 
-   Contact us, Page qe përmban (detajet e produktit, lajmit, ofertes, etj.)
-
-2. Të krijohet Login dhe Register page/form
-
-3. Perdorimi i GIT.
