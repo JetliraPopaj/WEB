@@ -28,7 +28,7 @@
 }
 .contact .content p{
     font-weight: 300;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 .container{
     width: 100%;
@@ -61,7 +61,7 @@
     display: flex;
     margin-left: 20px;
     font-size: 16px;
-    color: #0004d4;
+    color: #0004d4 ;
     /* flex-direction: column; */
     font-weight: 500;
 }
@@ -69,7 +69,7 @@
     display: flex;
     margin-left: 20px;
     font-size: 16px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     /* flex-direction: column; */
     font-weight: 300;
 }
